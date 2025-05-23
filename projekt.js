@@ -14,7 +14,7 @@ const fish = {
   direction: "right",
 };
 
-// Tangenter
+// Rörning
 const keys = {
   ArrowUp: false,
   ArrowDown: false,
